@@ -17,7 +17,7 @@
     
     Ajoutez à chaque div un paragraphe, un lien, un span, ou encore mieux, les trois.
     
-    La taille de la police de caractères pour mobile devra être de 2.5rem ( c'est gros );
+    La taille de la police de caractères pour desktop devra être de 2.5rem ( c'est gros );
     
 ## Mise en place version mobile
     Pour la version mobile, le div container prendra une largeur de 100% et n'aura pas de marges.
