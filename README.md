@@ -7,7 +7,7 @@
     Appliquez un rééquilibrage du rem face au px.
     
 ## Mise en place, version desktop
-    Dans le body, créez un div et donnez lui l'id ou la classe container, appliquez une couleur foncé et une largeur de 100%, 
+    Dans le body, créez un div et donnez lui l'id ou la classe container, appliquez une couleur foncé, 
     il restera de type bloc. Ce container devra avoir une largeur de 80% et devra être centré horizontalement sur la page.
     
     Dans le div container que vous venez de créer, créez trois autres divs de type inline-bloc, donnez au premier une largeur 
